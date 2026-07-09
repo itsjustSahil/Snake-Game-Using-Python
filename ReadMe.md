@@ -11,6 +11,7 @@ A classic Snake Game built using Python and the Turtle Graphics module with Obje
 * Game Over when the snake hits the wall
 * Game Over when the snake collides with its own tail
 * Built using multiple classes following OOP concepts
+* Persistent high score using file handling
 
 ## 🛠 Technologies Used
 
@@ -84,6 +85,13 @@ Through this project, I learned:
 * Sound Effects
 * Better Graphics and Animations
 
+
+## ✨ New Feature
+
+- Added a persistent high score system.
+- High score is stored in a local text file.
+- The game automatically loads the previous high score every time it starts.
+- If the player beats the existing high score, the new record is saved automatically.
 ---
 
 Created by **Sahil** 🚀
